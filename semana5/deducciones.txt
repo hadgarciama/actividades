@@ -1,0 +1,2 @@
+porcentaje salud=0.04
+porcentaje pension=0.04

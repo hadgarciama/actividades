@@ -1,0 +1,6 @@
+porcentaje salud=0.085
+porcentaje pension=0.12
+porcentaje riesgos=0.00522
+porcentaje caja=0.04
+porcentaje icbf=0.03
+porcentaje sena=0.02
